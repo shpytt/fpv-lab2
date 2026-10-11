@@ -1,0 +1,4 @@
+Start position: x0=0.000, y0=0.000
+Target position: x=-4.600, y=-1.100
+Actual position before landing: x=-4.541, y=-1.082
+Positioning error: 0.061 m
